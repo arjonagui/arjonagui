@@ -4,13 +4,14 @@
 - 🔭 Estou à procura de um estágio!
 - 🌱 Atualmente estou aprendendo python avançado.
 - 🖥Contate-me no email: arjonagui@gmail.com
-  
-<div style="display: inline_block"><br>
-   <a href="https://www.linkedin.com/in/guilherme-arjona/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
-##
 
-<div> 
- <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+# 💻 Tech Stack:
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arjonagui&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arjonagui&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjonagui&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
